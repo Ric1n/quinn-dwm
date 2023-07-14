@@ -5,5 +5,6 @@ This is my personal DWM build with my patched, however kept decently close to va
 - Picom
 - Slstatus
 - st
+- Hack font
 ### Install
-`sudo apt install picom nitrogen`
+`sudo apt install picom nitrogen fonts-hack-ttf`
